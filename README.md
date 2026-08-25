@@ -21,7 +21,7 @@ links below. Draw the artwork in [p5.js](https://p5js.org) and export it with
 [p5.js-svg](https://github.com/zenozeng/p5.js-svg). Run the file through
 [vpype](https://github.com/abey79/vpype) once, which sorts the paths, drops the
 duplicates and scales the drawing to your paper. Then send it to the machine
-with [saxi](https://github.com/nornagon/saxi) if you own an AxiDraw, or with
+with [saxi](https://github.com/alexrudd2/saxi) if you own an AxiDraw, or with
 [juicy-gcode](https://github.com/domoszlai/juicy-gcode) and a GRBL sender if you
 built your own. Everything else on this page is a detour worth taking later.
 
@@ -38,7 +38,7 @@ built your own. Everything else on this page is a detour worth taking later.
 
 ### Drivers and firmware
 
-- [saxi](https://github.com/nornagon/saxi) — fast AxiDraw driver with a browser UI, plans motion better than the stock software
+- [saxi](https://github.com/alexrudd2/saxi) — fast AxiDraw driver with a browser UI, plans motion better than the stock software; this fork is the one still being maintained
 - [AxiDraw CLI and Python API](https://axidraw.com/doc/cli_api/) — the official way to drive an AxiDraw from a script
 - [Klipper](https://github.com/Klipper3d/klipper) — firmware that moves the kinematics onto a host computer, worth it for a large or fast self built machine
 - [MeerK40t](https://github.com/tatarize/meerk40t) — open source control for K40 and other diode lasers
@@ -61,11 +61,25 @@ built your own. Everything else on this page is a detour worth taking later.
 
 ## Machines and materials
 
+### Ready made
+
 - [AxiDraw](https://axidraw.com) — the reference pen plotter, holds almost any pen
 - [NextDraw](https://bantamtools.com/products/bantam-tools-nextdraw) — successor built by Bantam Tools, faster and quieter
+- [UUNA TEK iDraw](https://www.uunatek.com) — the cheaper AxiDraw style machine, same working principle
 - [Line-us](https://www.line-us.com) — small robot arm, cheap way to find out whether plotting is for you
-- [BrachioGraph](https://www.brachiograph.art) — build your own from two servos and a clothes peg
-- [EggBot](https://github.com/evil-mad/EggBot) — for drawing on spherical objects
+- [Silhouette](https://www.silhouetteamerica.com) — cutting machines that take a pen holder, a common way in for people who already own one
+
+### Open source and self built
+
+- [BrachioGraph](https://www.brachiograph.art) — two servos and a clothes peg, the cheapest machine that draws
+- [Makelangelo](https://github.com/MarginallyClever/Makelangelo) — wall hanging polargraph, software and firmware are open, kits are sold by [Marginally Clever](https://www.marginallyclever.com)
+- [Polargraph](https://github.com/euphy/polargraph) — long running hanging plotter project, firmware plus the controller software
+- [EggBot](https://github.com/evil-mad/EggBot) — for drawing on eggs, bulbs and other spherical objects
+- [OpenBuilds ACRO](https://openbuilds.com/builds/openbuilds-acro-system.5416/) — extrusion gantry sold as a kit, the usual base for a large self built plotter
+- [AxiDraw sources](https://github.com/evil-mad/axidraw) — the control software of a commercial machine, published openly and useful to read
+
+### Pens, paper and reference
+
 - [AxiDraw wiki](https://wiki.evilmadscientist.com/AxiDraw) — manuals, pen holder mods, troubleshooting
 - [Evil Mad Scientist pen shop](https://shop.evilmadscientist.com/productsmenu/968) — pens tested to work in a plotter
 - [HP Computer Museum](https://www.hpmuseum.net) — documentation for vintage HP pen plotters still in use
