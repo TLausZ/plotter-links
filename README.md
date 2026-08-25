@@ -14,6 +14,17 @@
 Software, code, machines and people for drawing with a pen plotter or a laser.
 Kept short on purpose: every entry here is something I would open again.
 
+## Start here
+
+If you have never plotted anything, the shortest path runs through three of the
+links below. Draw the artwork in [p5.js](https://p5js.org) and export it with
+[p5.js-svg](https://github.com/zenozeng/p5.js-svg). Run the file through
+[vpype](https://github.com/abey79/vpype) once, which sorts the paths, drops the
+duplicates and scales the drawing to your paper. Then send it to the machine
+with [saxi](https://github.com/nornagon/saxi) if you own an AxiDraw, or with
+[juicy-gcode](https://github.com/domoszlai/juicy-gcode) and a GRBL sender if you
+built your own. Everything else on this page is a detour worth taking later.
+
 ## Software and tools
 
 ### Preparing the file
