@@ -33,7 +33,7 @@ built your own. Everything else on this page is a detour worth taking later.
 - [vsketch](https://github.com/abey79/vsketch) — sketching framework on top of vpype, live reload and parameter sliders
 - [Inkscape](https://inkscape.org) — the editor most plotter extensions plug into
 - [contour-drawing](https://github.com/TLausZ/contour-drawing) — my own tool, turns a photo into contour lines and writes plotter ready SVG<br><img src="https://raw.githubusercontent.com/TLausZ/contour-drawing/main/example/warhol.svg" width="150" alt="Andy Warhol portrait as a contour drawing">
-- [DrawingBotV3](https://drawingbotv3.com/) — turns photos into line drawings with dozens of pen and hatching styles, my favourite of the paid tools
+- [DrawingBotV3](https://drawingbotv3.com/) — turns photos into line drawings with dozens of pen and hatching styles, my favourite of the paid tools. Its author teaches it on [YouTube](https://www.youtube.com/@drawingbotv3): start with the [beginner series](https://www.youtube.com/playlist?list=PLDPNDW2dqMA0sAHhvuDRd27tcy28PWU8Z), then the [feature spotlights](https://www.youtube.com/playlist?list=PLDPNDW2dqMA2AiuVd0tzcL3Fd5FdHKqNj)
 - [svgsort](https://github.com/inconvergent/svgsort) — reorders paths to cut down pen travel
 - [juicy-gcode](https://github.com/domoszlai/juicy-gcode) — SVG to G-code with proper curve fitting, for GRBL machines
 
