@@ -16,14 +16,20 @@ Kept short on purpose: every entry here is something I would open again.
 
 ## Software and tools
 
+### Preparing the file
+
 - [vpype](https://github.com/abey79/vpype) — CLI pipeline that cleans, sorts, scales and merges SVG before it goes to the machine
 - [vsketch](https://github.com/abey79/vsketch) — sketching framework on top of vpype, live reload and parameter sliders
-- [saxi](https://github.com/nornagon/saxi) — fast AxiDraw driver with a browser UI, plans motion better than the stock software
-- [AxiDraw CLI and Python API](https://axidraw.com/doc/cli_api/) — the official way to drive an AxiDraw from a script
 - [Inkscape](https://inkscape.org) — the editor most plotter extensions plug into
 - [contour-drawing](https://github.com/TLausZ/contour-drawing) — my own tool, turns a photo into contour lines and writes plotter ready SVG<br><img src="https://raw.githubusercontent.com/TLausZ/contour-drawing/main/example/warhol.svg" width="150" alt="Andy Warhol portrait as a contour drawing">
 - [svgsort](https://github.com/inconvergent/svgsort) — reorders paths to cut down pen travel
 - [juicy-gcode](https://github.com/domoszlai/juicy-gcode) — SVG to G-code with proper curve fitting, for GRBL machines
+
+### Drivers and firmware
+
+- [saxi](https://github.com/nornagon/saxi) — fast AxiDraw driver with a browser UI, plans motion better than the stock software
+- [AxiDraw CLI and Python API](https://axidraw.com/doc/cli_api/) — the official way to drive an AxiDraw from a script
+- [Klipper](https://github.com/Klipper3d/klipper) — firmware that moves the kinematics onto a host computer, worth it for a large or fast self built machine
 - [MeerK40t](https://github.com/tatarize/meerk40t) — open source control for K40 and other diode lasers
 - [LightBurn](https://lightburnsoftware.com) — the paid standard for laser cutting and engraving, worth it if you burn often
 - [LaserGRBL](https://lasergrbl.com) — free GRBL sender for Windows, good starting point before buying LightBurn
