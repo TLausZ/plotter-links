@@ -78,6 +78,7 @@ built your own. Everything else on this page is a detour worth taking later.
 - [generative-noodles](https://github.com/cadin/generative-noodles) — Processing sketch that grows tangled noodle shapes and saves them as plotter ready SVG<br><img src="https://raw.githubusercontent.com/cadin/generative-noodles/main/banner.png" width="150" alt="Tangled noodle shapes drawn with a plotter">
 - [fishdraw](https://github.com/LingDong-/fishdraw) and [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) — Lingdong Huang's procedurally generated fish and endless Chinese landscape scrolls, both export SVG
 - [Truchet Mosaic Generator](https://swazara.github.io/truchet-web-generator/) — Truchet tiles in the browser with swappable tile sets, exports SVG<br><img src="images/truchet.webp" width="150" alt="Truchet tile pattern of interlocking curves">
+- [Book of Shapes](https://www.bookofshapes.com/) — Nikolaj Sokolowski's collection of minimal generative patterns, each one tweakable in the browser and exported as SVG<br><img src="images/book-of-shapes.webp" width="150" alt="Flowing lines bending around four vortex points">
 - [Atypography](https://www.atypography.com/) — browser tool that bends type into generative line patterns, exports SVG, see the [manual](https://www.atypography.com/manual)
 - [Constraint Systems](https://constraint.systems/) — Grant Custer's experimental browser tools for drawing and text, several export SVG
 - [Generative Artistry](https://www.generativeartistry.com) — tutorials that rebuild classic plotter works step by step
