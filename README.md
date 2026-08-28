@@ -49,7 +49,6 @@ built your own. Everything else on this page is a detour worth taking later.
 - [Tissage Studio](https://tissagestudio.etienne.design/) — turns an image into diagonal line bands of varying weight, browser based with a sample gallery<br><img src="images/tissage-studio.webp" width="150" alt="Duckling photo next to its line band rendering">
 - [PixelMe](https://pixel-me.tokyo/) — free tool that reduces a photo to pixel art, a coarse grid to plot as filled or hatched cells
 - [AI Draw](https://ai-draw.tokyo/en/) — online photo to contour line art, downloads SVG
-- [Vectorizer.AI](https://vectorizer.ai/) — the cleanest online raster to vector converter, paid for full resolution
 - [RapidResizer](https://online.rapidresizer.com/tracer.php) — free online tracer and [stencil maker](https://online.rapidresizer.com/photograph-to-pattern.php), no login, good enough for quick outlines
 - [LuBan](https://www.luban3d.com/) — paid software that slices 3D models into layered cut files and turns photos into line and halftone art, not the free Snapmaker Luban
 
