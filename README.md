@@ -135,6 +135,7 @@ built your own. Everything else on this page is a detour worth taking later.
 - [Tyler Hobbs](https://www.tylerxhobbs.com/words) — essays on generative work, start with [flow fields](https://tylerxhobbs.com/essays/2020/flow-fields)
 - [Amy Goodchild](https://www.amygoodchild.com/blog) — clear write-ups of her own plotter projects
 - [Painting With Plotters](https://www.eyesofpanda.com/project/painting_with_plotters/) — Licia He on plotting with brushes and watercolour instead of pens, including the rig for dipping and rinsing
+- [Scenery](https://scenery.io/) — community site for Cavalry, the motion design app whose procedural scenes export as SVG, hundreds of downloadable scene files to pick apart
 - [Mario De Meyer on Scenery](https://scenery.io/@mariodemeyer/) — parametric plotter sketches you can tweak in the browser and export as SVG
 - [PlotterFiles](https://plotterfiles.com/artwork) — free SVG files made for plotters, handy for testing a new machine or pen
 - [#plottertwitter](https://www.instagram.com/explore/tags/plottertwitter/) — the tag survived the move off Twitter
