@@ -117,6 +117,7 @@ built your own. Everything else on this page is a detour worth taking later.
 
 ### Pens, paper and reference
 
+- [Line test](https://piterpasma.nl/articles/line-test) — Piter Pasma's SVG that fans lines apart from 0 to 5 mm, plot it once per pen and read off the real line width for your stroke-width settings
 - [AxiDraw wiki](https://wiki.evilmadscientist.com/AxiDraw) — manuals, pen holder mods, troubleshooting
 - [Evil Mad Scientist pen shop](https://shop.evilmadscientist.com/productsmenu/968) — pens tested to work in a plotter
 - [HP Computer Museum](https://www.hpmuseum.net) — documentation for vintage HP pen plotters still in use
