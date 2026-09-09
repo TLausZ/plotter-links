@@ -50,6 +50,7 @@ built your own. Everything else on this page is a detour worth taking later.
 - [PixelMe](https://pixel-me.tokyo/) — free tool that reduces a photo to pixel art, a coarse grid to plot as filled or hatched cells
 - [AI Draw](https://ai-draw.tokyo/en/) — online photo to contour line art, downloads SVG
 - [RapidResizer](https://online.rapidresizer.com/tracer.php) — free online tracer and [stencil maker](https://online.rapidresizer.com/photograph-to-pattern.php), no login, good enough for quick outlines
+- [Vecline](https://github.com/shunyagatha/Vecline) — open source raster to SVG tracer with centerline mode, bit-exact on flat artwork and measured against potrace and vtracer, also writes DXF and G-code, runs in the browser at [vecline.xyz](https://vecline.xyz)
 - [LuBan](https://www.luban3d.com/) — paid software that slices 3D models into layered cut files and turns photos into line and halftone art, not the free Snapmaker Luban
 
 ### Drivers and firmware
