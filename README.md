@@ -83,6 +83,7 @@ built your own. Everything else on this page is a detour worth taking later.
 - [Atypography](https://www.atypography.com/) — browser tool that bends type into generative line patterns, exports SVG, see the [manual](https://www.atypography.com/manual)
 - [Constraint Systems](https://constraint.systems/) — Grant Custer's experimental browser tools for drawing and text, several export SVG
 - [Generative Artistry](https://www.generativeartistry.com) — tutorials that rebuild classic plotter works step by step
+- [Mike Bostock on Observable](https://observablehq.com/@mbostock) — the D3 author's notebooks, hundreds of live examples for Voronoi, contours, hexbins and force layouts, all runnable in the browser
 - [Sighack](https://sighack.com) — Manohar Vanga on fills, hatching and space filling curves, with code
 - [Inconvergent](https://inconvergent.net/generative/) — Anders Hoff's writings on the algorithms behind his plots
 - [The Coding Train](https://thecodingtrain.com) — video course for everything from noise fields to L-systems
