@@ -69,6 +69,7 @@ built your own. Everything else on this page is a detour worth taking later.
 <tr><td><a href="https://lightburnsoftware.com">LightBurn</a> — the paid standard for laser cutting and engraving, worth it if you burn often</td><td width="300"></td></tr>
 <tr><td><a href="https://lasergrbl.com">LaserGRBL</a> — free GRBL sender for Windows, good starting point before buying LightBurn</td><td width="300"></td></tr>
 <tr><td><a href="https://github.com/svenhb/GRBL-Plotter">GRBL-Plotter</a> — Windows sender for GRBL machines that imports SVG, DXF and HPGL directly and handles pen changes</td><td width="300"></td></tr>
+<tr><td><a href="https://github.com/theworkisthework/terraForge">terraForge</a> — desktop app for FluidNC pen plotters such as the TerraPen, imports SVG and PDF, places it on the bed, writes optimised G-code per layer for pen changes and streams it over Wi-Fi or USB</td><td width="300"></td></tr>
 <tr><td><a href="https://www.codelv.com/projects/inkcut/">Inkcut</a> — open source Inkscape extension that drives vinyl cutters and HPGL plotters directly</td><td width="300"></td></tr>
 <tr><td><a href="https://github.com/DalessandroJ/iDraw_GH">iDraw_GH</a> — Grasshopper component that streams G-code from Rhino straight to an iDraw or any GRBL plotter</td><td width="300"></td></tr>
 </table>
