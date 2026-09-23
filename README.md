@@ -142,6 +142,7 @@ built your own. Everything else on this page is a detour worth taking later.
 <tr><td><a href="https://laserpilot.github.io/Pen-Plotter-Calibration/">Pen Plotter Calibration</a> — browser tool that builds per pen test sheets for spacing, hatching and stippling, plus an analyzer that flags and nudges apart lines in your SVG that sit too close</td><td width="300"></td></tr>
 <tr><td><a href="https://wiki.evilmadscientist.com/AxiDraw">AxiDraw wiki</a> — manuals, pen holder mods, troubleshooting</td><td width="300"></td></tr>
 <tr><td><a href="https://shop.evilmadscientist.com/productsmenu/968">Evil Mad Scientist pen shop</a> — pens tested to work in a plotter</td><td width="300"></td></tr>
+<tr><td><a href="https://www.youtube.com/@SarahRenaeClark">Sarah Renae Clark</a> — YouTube channel with side by side pen tests, colour swatches and paper comparisons for fineliners, markers and gel pens</td><td width="300"></td></tr>
 <tr><td><a href="https://www.hpmuseum.net">HP Computer Museum</a> — documentation for vintage HP pen plotters still in use</td><td width="300"></td></tr>
 </table>
 
