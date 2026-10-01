@@ -73,6 +73,7 @@ built your own. Everything else on this page is a detour worth taking later.
 <tr><td><a href="https://github.com/theworkisthework/terraForge">terraForge</a> — desktop app for FluidNC pen plotters such as the TerraPen, imports SVG and PDF, places it on the bed, writes optimised G-code per layer for pen changes and streams it over Wi-Fi or USB</td><td width="300"></td></tr>
 <tr><td><a href="https://www.codelv.com/projects/inkcut/">Inkcut</a> — open source Inkscape extension that drives vinyl cutters and HPGL plotters directly</td><td width="300"></td></tr>
 <tr><td><a href="https://github.com/DalessandroJ/iDraw_GH">iDraw_GH</a> — Grasshopper component that streams G-code from Rhino straight to an iDraw or any GRBL plotter</td><td width="300"></td></tr>
+<tr><td><a href="https://github.com/TLausZ/plotter-studio">Plotter Studio</a> — my own Inkscape extension with a local web UI that walks through connect, paper, pen, speed and plot, built for the UUNA TEK iDraw with AxiDraw and GRBL support, simulation mode without a device and control from an iPad, still alpha and untested on real hardware, see the <a href="https://tlausz.github.io/plotter-studio/MANUAL.html">manual</a></td><td width="300"><img src="images/plotter-studio.webp" width="300" alt="Plotter Studio web UI plotting the iDraw A3 test sheet in the simulator"></td></tr>
 </table>
 
 ## Generative art and code
