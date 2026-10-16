@@ -163,7 +163,7 @@ built your own. Everything else on this page is a detour worth taking later.
 <tr><td><a href="https://www.eyesofpanda.com/project/painting_with_plotters/">Painting With Plotters</a> — Licia He on plotting with brushes and watercolour instead of pens, including the rig for dipping and rinsing</td><td width="300"></td></tr>
 <tr><td><a href="https://scenery.io/">Scenery</a> — community site for Cavalry, the motion design app whose procedural scenes export as SVG, hundreds of downloadable scene files to pick apart</td><td width="300"></td></tr>
 <tr><td><a href="https://scenery.io/@mariodemeyer/">Mario De Meyer on Scenery</a> — parametric plotter sketches you can tweak in the browser and export as SVG</td><td width="300"></td></tr>
-<tr><td><a href="https://plotterfiles.com/artwork">PlotterFiles</a> — free SVG files made for plotters, handy for testing a new machine or pen</td><td width="300"></td></tr>
+<tr><td><a href="https://plotterfiles.com/artwork">PlotterFiles</a> — free SVG files made for plotters, handy for testing a new machine or pen</td><td width="300"><img src="images/plotterfiles.webp" width="300" alt="Wigeon duck filled with meandering lines"></td></tr>
 <tr><td><a href="https://www.instagram.com/explore/tags/plottertwitter/">#plottertwitter</a> — the tag survived the move off Twitter</td><td width="300"></td></tr>
 </table>
 
